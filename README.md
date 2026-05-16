@@ -1,7 +1,7 @@
 <h1><b> Hii, I'm Vikas Sampath</b></h1>
 
 <p>
-Computer Science & Engineering Student | Full-Stack Developer | Java Programmer
+Computer Science & Engineering Student
 </p>
 
 ---
