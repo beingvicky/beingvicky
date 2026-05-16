@@ -1,6 +1,6 @@
-<h1 align="center"><b>Vikas Sampath</b></h1>
+<h1><b> Hii, I'm Vikas Sampath</b></h1>
 
-<p align="center">
+<p>
 Computer Science & Engineering Student | Full-Stack Developer | Java Programmer
 </p>
 
