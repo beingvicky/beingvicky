@@ -1,69 +1,71 @@
-<table>
-<tr>
-<td width="80">
-
-<img src="https://i.postimg.cc/3N0hL0KX/initials.png" width="70" height="70" style="border-radius:50%;">
-
-</td>
-
-<td>
-
-<p style="font-size:12px; letter-spacing:2px;"><b>COMPUTER SCIENCE & ENGINEERING</b></p>
-
-# Hi, I am Vikas Sampath
-
-</td>
-</tr>
-</table>
-
-<br>
-
-A passionate Computer Science & Engineering student at **ATME College of Engineering**,  
-driven by a deep interest in **Data Structures & Algorithms, Java programming, and full-stack web development**.  
-Focused on building efficient, scalable, and user-focused applications with clean and maintainable code.
-
-<br>
-
-## FOCUS AREA
+<h1><b> Hii, I'm Vikas Sampath</b></h1>
 
 <p>
-<img src="https://img.shields.io/badge/Full--Stack%20Development-1f2937?style=for-the-badge&logo=vercel&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/DevOps%20Engineer-1f2937?style=for-the-badge&logo=docker&logoColor=white"/>
+Computer Science & Engineering Student
 </p>
 
-<br>
+---
 
-## CORE SKILLS
+## About Me
 
-<p>
+Computer Science & Engineering student at **ATME College of Engineering** with a strong interest in **Data Structures & Algorithms, Java programming, and Full-Stack Web Development**.
 
-<img src="https://img.shields.io/badge/Java-EDE9FE?style=for-the-badge&logo=openjdk&logoColor=4C1D95"/>
+Focused on building scalable, efficient, and user-centric applications with clean and maintainable code. Passionate about continuous learning, problem solving, and exploring modern software development technologies.
 
-<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-D1FAE5?style=for-the-badge&logo=thealgorithms&logoColor=065F46"/>
+---
 
-<img src="https://img.shields.io/badge/Full--Stack%20Web%20Development-DBEAFE?style=for-the-badge&logo=react&logoColor=1D4ED8"/>
+## Connect With Me
 
-<img src="https://img.shields.io/badge/AI%20%2F%20ML-FEE2E2?style=for-the-badge&logo=tensorflow&logoColor=991B1B"/>
-
-<img src="https://img.shields.io/badge/IoT%20%26%20Blockchain-ECFCCB?style=for-the-badge&logo=blockchaindotcom&logoColor=365314"/>
-
-<img src="https://img.shields.io/badge/Problem%20Solving-FEF3C7?style=for-the-badge&logo=leetcode&logoColor=92400E"/>
-
-</p>
-
-<br>
-
-## Socials
-
-<p>
+<p align="left">
 
 <a href="https://www.linkedin.com/in/vikas-sampath-1766a731a/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:vikassampath1@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+</p>
+
+---
+
+## Tech Stack
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+</p>
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=beingvicky&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=beingvicky&theme=tokyonight&hide_border=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beingvicky&theme=tokyonight&hide_border=true&layout=compact"/>
+
+</p>
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=beingvicky&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
